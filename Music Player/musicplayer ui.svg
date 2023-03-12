@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2304px" height="3456px" viewBox="0 0 2304 3456" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>musicplayer ui</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#86E7D6" offset="0%"></stop>
+            <stop stop-color="#538AD6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="musicplayer-ui" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="2304" height="3456"></rect>
+        <text id="3456" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1139" y="1945">3456</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#979797" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="2303" height="3455"></rect>
+        <g id="wave-(1)" transform="translate(0.000000, 3028.000000)" fill="#1375BA" fill-rule="nonzero">
+            <path d="M0,197.545556 L54.88,197.545556 C109.76,197.545556 219.2,197.545556 329.6,197.545556 C438.88,197.545556 548.8,197.545556 657.6,174.500112 C768,151.454667 878.4,105.363778 987.2,128.409223 C1097.12,151.454667 1206.4,243.636445 1316.8,236.002641 C1426.24,227.792702 1536,121.207522 1646.4,59.2728897 C1755.36,-2.6617421 1865.6,-17.0651448 1974.4,20.8158044 C2084.64,59.2728897 2193.6,151.454667 2249.6,197.545556 L2304,243.636445 L2304,428 L2249.12,428 C2194.24,428 2084.8,428 1974.4,428 C1865.12,428 1755.2,428 1646.4,428 C1536,428 1425.6,428 1316.8,428 C1206.88,428 1097.6,428 987.2,428 C877.76,428 768,428 657.6,428 C548.64,428 438.4,428 329.6,428 C219.36,428 110.4,428 54.4,428 L0,428 L0,197.545556 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
